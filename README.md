@@ -44,8 +44,8 @@ We intend to build a transparent governance model that balances **clinical exper
 Stay tuned for details on steering groups, working groups, and release schedules.  
 
 ## Roadmap (Draft)
-- **v0.1 (Initial Draft):** Define core wound descriptors (type, stage, size, location) with JSON schema.  
-- **v0.2:** Add patient-level metadata, treatment categories, and outcomes with Parquet compatibility.  
+- **v0.1 (Initial Draft):** Define core wound descriptors.  
+- **v0.2:** Add patient-level metadata, treatment categories, and outcomes.  
 - **v0.3:** Extend to support advanced analytics (risk adjustment, registries, payer reporting).  
 - **v1.0:** Stable release for implementation in pilot systems.  
 
